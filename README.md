@@ -1,5 +1,5 @@
 # Sentiment Analysis on Product Reviews
-( Project Associated with Zummit Infolabs ).
+*Project Associated with* **Zummit Infolabs.**
 
 ## Contributors :
 * Shubham
