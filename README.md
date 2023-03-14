@@ -1,13 +1,4 @@
 # Sentiment Analysis on Product Reviews
-*Project Associated with* **Zummit Infolabs.**
-
-## Contributors :
-* Shubham
-* Aman Sahu
-
-*Project Associated with* **Zummit Infolabs.**
-
-**Project :** Sentiment Analysis on Product Reviews
 
 **Project Description:**
 The project involves building a web application that analyzes the sentiment of product reviews. The web application will take the text data of the product review and classify it into positive, negative, or neutral. The application will be built using Flask, a Python web framework, and will use natural language processing (NLP) techniques to perform sentiment analysis.
